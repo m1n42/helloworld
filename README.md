@@ -1,1 +1,2 @@
 # helloworld
+test mode on
